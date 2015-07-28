@@ -1,0 +1,24 @@
+{% if page.noads != true %}
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<!-- footer-ad-responsive -->
+	<ins class="adsbygoogle"
+		style="display:block"
+		data-ad-client="ca-pub-4328789168608769"
+		data-ad-slot="6802141733"
+		data-ad-format="auto"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+{% endif %}
+
+<br>
+
+<span>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }} (also known as {{ site.owner.nickname }}). Follow me on these websites:</span>
+<div class="social-icons">
+	{% if site.owner.twitter %}<a href="http://twitter.com/{{ site.owner.twitter }}" title="{{ site.owner.name}} on Twitter" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>{% endif %}
+	{% if site.owner.google.plus %}<a href="http://plus.google.com/{{ site.owner.google.plus }}" title="{{ site.owner.name}} on Google+" target="_blank"><i class="fa fa-google-plus-square fa-2x"></i></a>{% endif %}
+	{% if site.owner.google.youtube %}<a href="http://www.youtube.com/channel/{{ site.owner.google.youtube }}/videos" title="{{ site.owner.name}} on Youtube" target="_blank"><i class="fa fa-youtube-square fa-2x"></i></a>{% endif %}
+	{% if site.owner.github %}<a href="http://github.com/{{ site.owner.github }}" title="{{ site.owner.name}} on Github" target="_blank"><i class="fa fa-github-square fa-2x"></i></a>{% endif %}
+	{% if site.owner.email %}<a href="mailto:{{ site.owner.email }}" title="Send a mail to {{ site.owner.name}}" target="_blank"><i class="fa fa-envelope-square fa-2x"></i></a>{% endif %}
+  <a href="{{ site.url }}/feed.xml" title="Atom/RSS feed"><i class="fa fa-rss-square fa-2x"></i></a>
+</div><!-- /.social-icons -->

@@ -1,0 +1,46 @@
+# Site wide configuration
+
+title: peacestorm's website
+locale: en_US
+description: Welcome on my website! You can download all my mods and apps here!
+logo: site-logo.png
+search: false
+url: http://peacestorm.github.io
+
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  use_coderay: false
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+
+# Site owner
+owner:
+  name: Ruben Janse
+  nickname: peacestorm
+  avatar: site-logo.png
+  email: rjanse48@gmail.com
+  disqus-shortname: peacestormgithubio
+  twitter: AgameR_Modder
+  github: peacestorm
+  google:
+    plus: "105441553188773491002"
+    ad-client:
+    ad-slot: 
+    youtube: "UC0EwkulPmaAEIp93RlJGQ1A"
