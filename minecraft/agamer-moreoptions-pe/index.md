@@ -4,6 +4,7 @@ title: "AgameR MoreOptions PE"
 excerpt: "This mod adds more hacks and options into MCPE to make your game more customizable!"
 comments: true
 share: true
+noads: true
 ---
 
 * Table of Contents
