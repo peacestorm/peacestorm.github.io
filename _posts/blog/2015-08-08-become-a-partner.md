@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "You can now become my partner!"
-modified: 2015-08-08T22:35:55-04:00
+modified: 2015-08-07T22:35:55-04:00
 categories: blog
 excerpt:
 tags: [website, partners]
