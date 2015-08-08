@@ -7,17 +7,19 @@ noads: true
 
 #### My MCPE mods:
 
-* [AgameR Capes Mod PE]({{ site.url }}/minecraft/agamer-capes-mod-pe)
+* [AgameR Capes Mod PE](http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2470540-0-11-x-agamer-capes-mod-pe-singleplayer-capes)
 
-* [AgameR MoreOptions PE]({{ site.url }}/minecraft/agamer-moreoptions-pe)
+* [AgameR MoreOptions PE](http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2361226-0-11-x-agamer-moreoptions-pe-v1-0-0-hacks-fun)
 
-* [AgameR Paint Mod PE]({{ site.url }}/minecraft/agamer-paint-mod-pe)
+* [AgameR Paint Mod PE](http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2169228-0-11-x-agamer-mods-morethanmobs-pe-v2-2-paint-mod)
 
-* [AgameR MoreThanMobs PE]({{ site.url }}/minecraft/agamer-morethanmobs-pe)
+* [AgameR MoreThanMobs PE](http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2169228-0-11-x-agamer-mods-morethanmobs-pe-v2-2-paint-mod)
 
-* [AgameR MoreThanBlocks PE]({{ site.url }}/minecraft/agamer-morethanblocks-pe)
+* [AgameR MoreThanBlocks PE](http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2169228-0-11-x-agamer-mods-morethanmobs-pe-v2-2-paint-mod)
 
-* [AgameR Hats Mod PE]({{ site.url }}/minecraft/agamer-hats-mod-pe)
+* [AgameR Hats Mod PE](http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2169228-0-11-x-agamer-mods-morethanmobs-pe-v2-2-paint-mod)
+
+* [AgameR MiniMods](http://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2354013-0-11-x-0-10-x-agamer-minimods-invisible-armor-v0)
 
 #### My apps:
 
