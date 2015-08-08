@@ -61,15 +61,6 @@ Click [here]({{ site.url }}/minecraft/agamer-moreoptions-pe/full-changelog) for 
 
 ---
 
-##Known bugs and issues
-
-• MCPE buttons have weird missing pixels (for some resolutions)<br>
-• Some bugs with loading the options<br>
-• Can't push buttons or other things behind the hack list on the left (the workaround is to hide the hacklist in the mod settings for now)<br>
-• Some hacks don't work when using the Alternative theme
-
----
-
 ##Credits
 
 • Thanks to DAW330073 for the saving code.<br>
