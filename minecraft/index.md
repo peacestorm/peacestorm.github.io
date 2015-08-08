@@ -2,6 +2,7 @@
 layout: page
 title: Minecraft PE mods
 excerpt: "All my mods and other Minecraft-related things"
+noads: true
 ---
 
 #### My MCPE mods:
