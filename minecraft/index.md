@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Minecraft PE mods
+title: Minecraft Mods and Tools
 excerpt: "All my mods and other Minecraft-related things"
 noads: true
 ---
@@ -25,7 +25,11 @@ noads: true
 
 * [AgameR Mods](http://m.peacestorm.store.aptoide.com/app/market/com.agamer.mods/1/9761286/AgameR+Mods)
 
-#### My MCPC modpacks:
+#### My MCPC Mods:
+
+* [AgameR Paint Mod](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2533619-agamer-paint-mod-v1-0)
+
+#### My MCPC Modpacks:
 
 * [AgameR Modpack](http://www.technicpack.net/modpack/agamer-modpack.417333)
 
