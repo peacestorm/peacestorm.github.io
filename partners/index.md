@@ -16,7 +16,7 @@ noads: true
 
 * [Tave Black: MCPE Modder](http://taveblacken.weebly.com/)
 
-* [RaskoGames: Great MCPE builder](https://twitter.com/ivanfull99TV)
+* [RaskoGames: Great MCPE builder](https://twitter.com/RaskoGames)
 
 * [@SimonP_GG64: Minecraft is kul](https://twitter.com/SimonP_GG64)
 
