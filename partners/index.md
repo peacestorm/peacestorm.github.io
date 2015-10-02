@@ -14,6 +14,14 @@ noads: true
 
 * [RandomAltThing: MCPE Modder](https://github.com/RandomAltThing/)
 
+* [Tave Black: MCPE Modder](http://taveblacken.weebly.com/)
+
+* [RaskoGames: Great MCPE builder](https://twitter.com/ivanfull99TV)
+
+* [@SimonP_GG64: Minecraft is kul](https://twitter.com/SimonP_GG64)
+
+* [MrIrishMinerYT: YouTuber, ModPE Modder](https://www.youtube.com/c/mririshminer223CLICKHERE)
+
 
 ##### Become a partner
 
