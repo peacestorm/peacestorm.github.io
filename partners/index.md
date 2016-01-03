@@ -22,6 +22,8 @@ noads: true
 
 * MrIrishMinerYT: YouTuber, ModPE Modder - [YouTube](https://www.youtube.com/c/mririshminer223CLICKHERE)
 
+* @Khristian_Kun: Minecraft Modder - [Twitter](https://twitter.com/Khristian_Kun/) | [Website](http://smartpe.github.io/)
+
 
 ##### Become a partner
 
