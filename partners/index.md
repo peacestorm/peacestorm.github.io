@@ -10,15 +10,15 @@ noads: true
 
 ##### Partners:
 
-* [JovanModPE: MCPE Modder](https://twitter.com/JovanModPE)
+* JovanModPE: MCPE Modder - [Twitter](https://twitter.com/JovanModPE)
 
-* [RandomAltThing: MCPE Modder](https://github.com/RandomAltThing/)
+* RLBroadcast: MCPE Modder - [GitHub](https://github.com/RLBroadcast/)
 
-* [Tave Black: MCPE Modder](http://taveblacken.weebly.com/)
+* Tave Black: MCPE Modder - [Twitter](http://taveblacken.weebly.com/)
 
-* [RaskoGames: Great MCPE builder](https://twitter.com/RaskoGames)
+* RaskoGames: Great MCPE builder - [Twitter](https://twitter.com/RaskoGames)
 
-* [@SimonP_GG64: Minecraft is kul](https://twitter.com/SimonP_GG64)
+* @SimonP_GG64: Minecraft is kul - [Twitter](https://twitter.com/SimonP_GG64)
 
 * MrIrishMinerYT: YouTuber, ModPE Modder - [YouTube](https://www.youtube.com/c/mririshminer223CLICKHERE)
 
