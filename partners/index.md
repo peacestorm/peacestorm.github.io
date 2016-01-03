@@ -20,7 +20,7 @@ noads: true
 
 * [@SimonP_GG64: Minecraft is kul](https://twitter.com/SimonP_GG64)
 
-* [MrIrishMinerYT: YouTuber, ModPE Modder](https://www.youtube.com/c/mririshminer223CLICKHERE)
+* MrIrishMinerYT: YouTuber, ModPE Modder - [YouTube](https://www.youtube.com/c/mririshminer223CLICKHERE)
 
 
 ##### Become a partner
