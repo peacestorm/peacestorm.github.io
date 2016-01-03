@@ -24,6 +24,8 @@ noads: true
 
 * @Khristian_Kun: Minecraft Modder - [Twitter](https://twitter.com/Khristian_Kun/) | [Website](http://smartpe.github.io/)
 
+* Kairus Dark Seeker:	I'm a 12 year old boy who knows how to program - [Twitter](https://twitter.com/harveyhans110/) | [Website](http://kairusdarkseeker.github.io/)
+
 
 ##### Become a partner
 
