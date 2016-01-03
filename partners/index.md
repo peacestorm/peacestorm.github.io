@@ -10,7 +10,7 @@ noads: true
 
 ##### Partners:
 
-* JovanModPE: MCPE Modder - [Twitter](https://twitter.com/JovanModPE)
+* JovanModPE: MCPE Modder - [Twitter](https://twitter.com/JovanModPE) | [YouTube](https://www.youtube.com/channel/UCPmdWkS93Szz20fLV2eGOvQ/)
 
 * RLBroadcast: MCPE Modder - [GitHub](https://github.com/RLBroadcast/)
 
