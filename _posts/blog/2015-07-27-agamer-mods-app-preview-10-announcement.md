@@ -17,4 +17,5 @@ This should be the biggest update ever, and the last update before the release o
 A list of some of the features:<br>
 * Bug fixes<br>
 * Better mods downloading<br>
-* New and improved layout
+* New and improved layout<br>
+* New app icon
