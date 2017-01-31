@@ -33,7 +33,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: peacestorm
-  nickname: peacestorm
+  nickname: AgameR_Modder
   avatar: site-logo.png
   email: rjanse48@gmail.com
   disqus-shortname: peacestormgithubio
